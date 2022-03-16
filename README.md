@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: [www.lingoquizzer.com](https://www.lingoquizzer.com)
 - 🌱 I’m currently learning: React
 - 👯 I’m looking to collaborate on: anything e-commerce, and language learning games
-- 🤔 I’m looking for help with: DevOps best practices
+- 🤔 I’m looking for help with: Getting changes to save in XAMPP config!!! 
 - 💬 Ask me about: anything!
 - 📫 How to reach me: contact@ryellingson.com, [Linkedin](https://www.linkedin.com/in/ry-ellingson/)
 
