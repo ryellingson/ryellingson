@@ -3,7 +3,7 @@
 ### I'm a Full Stack Developer with an emphasis on Front-End and E-commerce applications.
 
 - 📚 I graduated from [Le Wagon's](https://www.lewagon.com/barcelona) full-stack bootcamp in Barcelona
-- 🔭 I’m currently working on: [www.lingoquizzer.com](https://www.lingoquizzer.com)
+- 🔭 I’m currently working on: [My Freelance Business](https://www.ryellingson.com/)
 - 🌱 I’m currently learning: React
 - 👯 I’m looking to collaborate on: anything e-commerce, and language learning games
 - 🤔 I’m looking for help with: Getting changes to save in XAMPP config!!! 
